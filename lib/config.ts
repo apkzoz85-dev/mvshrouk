@@ -18,10 +18,10 @@ export const SITE = {
    * لحد ما تحط المفتاح: الفورم بيحوّل العميل على واتساب ببياناته عشان مفيش ليد يضيع.
    */
   web3formsKey:
-    process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "596f9982-4edf-4ba6-b62a-d80eae539ec0",
+    process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "5f3b022f-38b7-4347-82f2-02b4892d66f0",
 
   /** الدومين النهائي (للـ SEO و OpenGraph) */
-  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://www.mountainviewproperties.org/",
+  siteUrl: process.env.NEXT_PUBLIC_SITE_URL || "https://www.mountainviewpropertie.org",
 
   /** اسم الجهة المسوّقة — بيظهر في الإفصاح أسفل الصفحة وسياسة الخصوصية */
   agentName: "وكيل مبيعات معتمد لمشروعات ماونتن فيو",
